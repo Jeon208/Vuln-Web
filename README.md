@@ -17,9 +17,9 @@ Unix 기반 운영체제에서 터미널(terminal)에서 아래의 명령어를 
 'sudo apt install libapache2-mod-php php-mysql'
 
 
-And store in /var/www/html .
+And store files in /var/www/html .
 
-그리고 /var/www/html 에 저장한다.
+그리고 파일들을 /var/www/html 에 저장한다.
 
 -----
 
